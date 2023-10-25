@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:wght@300&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Alata', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+}
+* .moma {
+    display: grid;
+    place-items: center;
+}
+header {
+    width: 375px;
+    height: 650px;
+    background-image: url(/assets/vrmob.svg);
+}
+.loopmob {
+    margin-top: 40px;
+    margin-left: 24px;
+}
+#baricon {
+    margin-left: 300px;
+    cursor: pointer;
+}
+.borderdiv {
+    margin-top: 163px;
+    margin-left: 24px;
+    width: 327px;
+    height: 196px;
+    border: 2px solid #FFF;
+}
+.bdin {
+    margin: 24px 26px;
+    width: 279px;
+    height: 146px;
+    color: #FFF;
+    font-family: Josefin Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 38px; 
+    text-transform: uppercase;
+}
+.hamburger-menu {
+    width: 24px;
+    height: 16px;
+    color: white;
+}
+.navlinkebi {
+    margin-top: -53px;
+    margin-left: -24px;
+    width: 375px;
+    height: 667px;
+    background-color: black;
+    color: white;
+}
+p {
+    position: absolute;
+    color: #FFF;
+    font-family: Josefin Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px; 
+    text-transform: uppercase; 
+}
+nav {
+    margin-top: -31px;
+    margin-left: 24px;
+    font-size: 27px;
+}
+.p1 {
+    margin-top: 223px;
+    margin-left: 24px;
+    cursor: pointer;
+}
+.p2 {
+    margin-top: 272px;
+    margin-left: 24px;
+    cursor: pointer;
+}
+.p3 {
+    margin-top: 321px;
+    margin-left: 24px;
+    cursor: pointer;
+}
+.p4 {
+    margin-top: 370px;
+    margin-left: 24px;
+    cursor: pointer;
+}
+.p5 {
+    margin-top: 419px;
+    margin-left: 24px;
+    cursor: pointer;
+}
+.box1 {
+    display: grid;
+    place-items: center;
+}
+.boywvr {
+    margin-top: 96px;
+}
+.box1-1 {
+    margin-top: 48px;
+    width: 279px;
+    color: #000;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px; 
+    text-transform: uppercase;
+}
+.box1-2 {
+    margin-top: 16px;
+    width: 279px;
+    color: #000;
+    text-align: center;
+    font-family: Alata;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    opacity: 0.4994;
+}
+.box2 {
+    margin-top: 96px;
+    display: grid;
+    place-items: center;
+    row-gap: 24px;
+}
+.minbox1 {
+   margin-left: -23px;
+}
+.box2header1 {
+    width: 279px;
+    color: #000;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px; /* 100% */
+    text-transform: uppercase;
+}
+.minbox2 {
+    margin-top: 24px;
+    width: 327px;
+    height: 120px;
+    background-image: url(/assets/dedamiwa.svg);
+}
+.minbox3 {
+    width: 327px;
+    height: 120px;
+    background-image: url(/assets/xuioznaetra.svg);
+}
+.minbox4 {
+    width: 327px;
+    height: 120px;
+    background-image: url(/assets/fexburteli.svg);
+}
+.minbox5 {
+    width: 327px;
+    height: 120px;
+    background-image: url(/assets/manqana.svg);
+}
+.minbox6 {
+    width: 327px;
+    height: 120px;
+    background-image: url(/assets/gzadidiadzmao.svg);
+}
+.minbox7 {
+    width: 327px;
+    height: 120px;
+    background-image: url(/assets/borealis.svg);
+}
+.minbox8 {
+    width: 327px;
+    height: 120px;
+    background-image: url(/assets/nasanasa.svg);
+}
+.minbox9 {
+    width: 327px;
+    height: 120px;
+    background-image: url(/assets/kundzuli.svg);
+}
+.minbox10 {
+    cursor: pointer;
+}
+.box2end {
+    display: grid;
+    place-items: center;
+    width: 157px;
+    height: 40px;
+    border: 1px solid #000;
+    color: #000;
+    font-family: Alata;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+h2 {
+    width: 130px;
+    margin-top: 52px;
+    margin-left: 20px;
+    color: #FFF;
+    font-family: Josefin Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+footer {
+    margin-top: 96px;
+    display: grid;
+    place-items: center;
+    width: 375px;
+    height: 470px;
+    background-color: #000;
+}
+.footerimg1 {
+    margin-top: 56px;
+}
+h3 {
+    color:white;
+}
+.divfooter {
+    display: grid;
+    place-items: center;
+    row-gap: 16px;
+}
+.endimg {
+    margin-bottom: 56px;
+}
+.socialimgs {
+    margin-top: 16px;
+}
