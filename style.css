@@ -8,7 +8,7 @@ body {
     font-family: 'Alata', sans-serif;
     font-family: 'Josefin Sans', sans-serif;
 }
-* .moma {
+.moma {
     display: grid;
     place-items: center;
 }
@@ -26,6 +26,7 @@ header {
     cursor: pointer;
 }
 .borderdiv {
+    
     margin-top: 163px;
     margin-left: 24px;
     width: 327px;
